@@ -9,7 +9,7 @@ class _BotCommands:
         self.ZipMirrorCommand = f'zipmirror{CMD_INDEX}'
         self.CancelMirror = f'cancel{CMD_INDEX}'
         self.CancelAllCommand = f'cancelall{CMD_INDEX}'
-        self.ListCommand = f'find{CMD_INDEX}'
+        self.ListCommand = f'list{CMD_INDEX}'
         self.SearchCommand = f'search{CMD_INDEX}'
         self.StatusCommand = f'status{CMD_INDEX}'
         self.AuthorizedUsersCommand = f'users{CMD_INDEX}'
